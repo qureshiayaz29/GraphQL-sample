@@ -1,4 +1,4 @@
-# Flutter GraphQL Character List
+# Flutter GraphQL Sample
 
 A Flutter app demonstrating GraphQL integration with infinite scroll pagination using the Rick and Morty API.
 
