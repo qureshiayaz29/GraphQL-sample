@@ -22,4 +22,4 @@ dependencies:
 
 ## Learn More
 
-Read the complete tutorial: [Fetching Data with GraphQL in Flutter - Medium Article](medium-article-link-here)
+Read the complete tutorial: [Fetching Data with GraphQL in Flutter - Medium Article](https://medium.com/@qureshi-ayaz29/fetching-data-with-graphql-in-flutter-011ed6b4ebb7)
